@@ -1,0 +1,653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions of the Lords and Commons assembled in Parliament after advice had with the Assembly of Divines, for the electing and choosing of ruling-elders in all the congregations, and in the classicall assemblies for the cities of London and Westminster, and the several counties of the kingdom, for the speedy setling [sic] of the Presbyteriall-Government.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02984</idno>
+            <idno type="STC">Wing E1524</idno>
+            <idno type="STC">ESTC R230599</idno>
+            <idno type="EEBO-CITATION">51617864</idno>
+            <idno type="OCLC">ocm 51617864</idno>
+            <idno type="VID">175212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175212)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2722:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions of the Lords and Commons assembled in Parliament after advice had with the Assembly of Divines, for the electing and choosing of ruling-elders in all the congregations, and in the classicall assemblies for the cities of London and Westminster, and the several counties of the kingdom, for the speedy setling [sic] of the Presbyteriall-Government.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>For John Wright, at the Kings head in the Old-baily,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Martis 19 August 1645. Ordered by the lords assembled in Parliament, that these directions for electing of elders in particular congregations and classicall assemblies, be forethwith printed and published. Jo. Brown Cler. Parliamentorum"--T.p.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church and state --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175212:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:175212:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>DIRECTIONS OF THE Lords and Commons Aſſembled in Parliament, After advice had with the Aſſembly of Divines, for the electing and chooſing of RULING-ELDERS in all the Congregations, and in the Claſſicall Aſſemblies for the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the ſeverall Counties of the Kingdom: For the ſpeedy ſetling of the Presbyteriall-Government.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <head>Die Martis, 19 Aug. 1645.</head>
+                        <p>
+                           <hi>ORdered by the Lords Aſſembled in Parliament, That theſe Directions for electing of Elders in particular Congre<g ref="char:EOLhyphen"/>gations, and Claſſicall Aſſemblies, be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>J. Brown, Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright,</hi> at the Kings head in the Old-baily. <hi>Auguſt</hi> 20. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175212:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb n="1" facs="tcp:175212:2"/>
+            <!-- PDF PAGE 86 -->
+            <head>
+               <hi>Die Martis,</hi> 19 <hi>Auguſti.</hi> 1645. DIRECTIONS FOR THE Election of Elders.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat the Ruling Elders of a Paro<g ref="char:EOLhyphen"/>chiall and congregationall Elder<g ref="char:EOLhyphen"/>ſhip ſhall be choſen by the ſeverall Miniſters, and members of their Congregation reſpectively, being ſuch as have taken the Nationall Covenant, and are not perſons under age, no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſervants that have no families.</p>
+            <p n="2">2. That notice of ſuch election, and of the day when it ſhall be given by the Miniſter in the publique Aſſembly the next Lords day but one before, and on that ſaid Lords day a Sermon be preached preparatory to that weighty buſineſſe.</p>
+            <pb n="2" facs="tcp:175212:3"/>
+            <!-- PDF PAGE 87 -->
+            <p n="3">3. That no man be choſen for a Ruling-Elder but onely for one Congregation, and that in the place where his moſt ſetled dwelling and im<g ref="char:EOLhyphen"/>ployment doth lie.</p>
+            <p n="4">4. That it ſhall be lawfull for the Congrega<g ref="char:EOLhyphen"/>tion reſpectively, or any other perſons to exhi<g ref="char:EOLhyphen"/>bite exceptions againſt any perſon elected as aforeſaid, touching the right of his election, or touching matter of ignorance, or ſcandall, here<g ref="char:EOLhyphen"/>after mentioned, within fourteene daies next after the ſaid election to ſuch perſons, Miniſters, and others, as ſhall be appointed by Authority of Parliament, to receive the ſaid exceptions, which ſaid perſons ſhall have power to receive, heare, and determine all complaints againſt any Elder, of ignorance and ſcandall, within the de<g ref="char:EOLhyphen"/>ſcription of ignorance and ſcandall hereafter-mentioned.</p>
+            <p>And ſhall have power to approve the perſon ſo elected, in caſe no juſt exception, as aforeſaid, ſhall be proved againſt him. But if he ſhall upon juſt proofe be found ignorant or ſcandalous, as aforeſaid, then to remove him. And if any of the ſaid Elders ſhall be adjudged to be removed, as aforeſaid, then another ſhall be choſen in his place, as aforeſaid.</p>
+            <pb n="3" facs="tcp:175212:3"/>
+            <!-- PDF PAGE 87 -->
+            <p n="5">5. That ſuch ſhal be choſen for Ruling-Elders as are men of good underſtanding in matters of Religion, ſound in the faith, prudent, diſcreet, grave, and of unblameable converſation. And willing to undergoe the ſaid Office.</p>
+            <p n="6">6. That all Pariſhes and places whatſoever, (as well priviledged places, and exempt juriſdi<g ref="char:EOLhyphen"/>ctions, as others) be brought under the govern<g ref="char:EOLhyphen"/>ment of Congregationall, Claſſicall, Provinciall, and Nationall Aſſemblies. Provided, that the Chappels or places in the houſes of the Peeres of this Realme ſhall continue free for the exerciſe of Divine duties, to be performed according to the Directory.</p>
+            <p n="7">7. That the Chappell of the Rolles, the two Serjeants Innes, and the foure Innes of Court, ſhall be each of them a Congregationall Preſ<g ref="char:EOLhyphen"/>bytery within themſelves, and make a Claſſicall Presbytery in the whole.</p>
+            <p n="8">8 That the Province of London ſhall be divided into twelve Claſſicall Elderſhips accor<g ref="char:EOLhyphen"/>ding to the diſtributions hereafter following:</p>
+            <list>
+               <head>The firſt Claſſis to containe:</head>
+               <item>
+                  <hi>ALhallowes Breadſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Andrews Wardrope,</hi>
+               </item>
+               <item>
+                  <hi>Anne Black Friers,</hi>
+               </item>
+               <item>
+                  <hi>Auſtins pariſh,</hi>
+               </item>
+               <pb n="4" facs="tcp:175212:4"/>
+               <!-- PDF PAGE 88 -->
+               <item>
+                  <hi>Bennet Pauls wharfe,</hi>
+               </item>
+               <item>
+                  <hi>Faiths,</hi>
+               </item>
+               <item>
+                  <hi>Gregories,</hi>
+               </item>
+               <item>
+                  <hi>John Evangeliſt,</hi>
+               </item>
+               <item>
+                  <hi>Margaret Moſes,</hi>
+               </item>
+               <item>
+                  <hi>Martin Ludgate,</hi>
+               </item>
+               <item>
+                  <hi>Mary Aldermary,</hi>
+               </item>
+               <item>
+                  <hi>Mary le Bow,</hi>
+               </item>
+               <item>
+                  <hi>Matthew Fridayſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Mildreds Breadſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Pauls,</hi>
+               </item>
+               <item>
+                  <hi>Peters Pauls wharfe.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſecond Claſſis to containe:</head>
+               <item>
+                  <hi>Anthomes vulgo An<g ref="char:EOLhyphen"/>thelms</hi>
+               </item>
+               <item>
+                  <hi>Bennet Sherehogge,</hi>
+               </item>
+               <item>
+                  <hi>James Garlickhithe,</hi>
+               </item>
+               <item>
+                  <hi>John Baptiſts,</hi>
+               </item>
+               <item>
+                  <hi>Martin in the Vintry,</hi>
+               </item>
+               <item>
+                  <hi>Mary Magdalen old Fiſh<g ref="char:EOLhyphen"/>ſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Mary Somerſet,</hi>
+               </item>
+               <item>
+                  <hi>Mary Mounthaunt vulgo Mou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thaw.</hi>
+               </item>
+               <item>
+                  <hi>Michael Queene Hithe,</hi>
+               </item>
+               <item>
+                  <hi>Michael Royall,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas old Abby,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Olaves,</hi>
+               </item>
+               <item>
+                  <hi>Pancret Soperlane,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Apoſtle,</hi>
+               </item>
+               <item>
+                  <hi>Trinity Pariſh.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The third Claſſis to containe:</head>
+               <item>
+                  <hi>Alhallowes the greater,</hi>
+               </item>
+               <item>
+                  <hi>Alhallowes the leſſe,</hi>
+               </item>
+               <item>
+                  <hi>Alhallowes Lumberſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Edmunds Lumberſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Laurence Pountney,</hi>
+               </item>
+               <item>
+                  <hi>Mary Abchurch,</hi>
+               </item>
+               <item>
+                  <hi>Mary Bothaw,</hi>
+               </item>
+               <item>
+                  <hi>Mary Woolchurch,</hi>
+               </item>
+               <item>
+                  <hi>Mary Woolnoth,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Aron,</hi>
+               </item>
+               <item>
+                  <hi>Stephens in Walbrook,</hi>
+               </item>
+               <item>
+                  <hi>Swithins,</hi>
+               </item>
+            </list>
+            <pb n="5" facs="tcp:175212:4"/>
+            <!-- PDF PAGE 88 -->
+            <list>
+               <head>The fourth Claſſis to containe:</head>
+               <item>
+                  <hi>Andrew Hubbert,</hi>
+               </item>
+               <item>
+                  <hi>Bennet Grace-church,</hi>
+               </item>
+               <item>
+                  <hi>Buttolph Billingſgate,</hi>
+               </item>
+               <item>
+                  <hi>Clements in Eaſtcheape.</hi>
+               </item>
+               <item>
+                  <hi>Dionis Backchurch,</hi>
+               </item>
+               <item>
+                  <hi>George Buttolph-lane,</hi>
+               </item>
+               <item>
+                  <hi>Leonard in Eaſtcheape,</hi>
+               </item>
+               <item>
+                  <hi>Magnus,</hi>
+               </item>
+               <item>
+                  <hi>Margaret New-fiſhſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Martin Orgars,</hi>
+               </item>
+               <item>
+                  <hi>Maryhill,</hi>
+               </item>
+               <item>
+                  <hi>Michael Crookedlane,</hi>
+               </item>
+               <item>
+                  <hi>Michael Cornhill,</hi>
+               </item>
+               <item>
+                  <hi>Peters Cornhill.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The fifth Claſſis to containe:</head>
+               <item>
+                  <hi>Anne Alderſgate,</hi>
+               </item>
+               <item>
+                  <hi>Buttolph Alderſgate,</hi>
+               </item>
+               <item>
+                  <hi>Brides,</hi>
+               </item>
+               <item>
+                  <hi>Bridewell,</hi>
+               </item>
+               <item>
+                  <hi>Chriſtchurch,</hi>
+               </item>
+               <item>
+                  <hi>John Zachary,</hi>
+               </item>
+               <item>
+                  <hi>Leonard Foſterlane,</hi>
+               </item>
+               <item>
+                  <hi>Mary Staynings,</hi>
+               </item>
+               <item>
+                  <hi>Michael in the Corne, vulgo Querne,</hi>
+               </item>
+               <item>
+                  <hi>Olaves Silverſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Peters Cheape,</hi>
+               </item>
+               <item>
+                  <hi>Pedaſt alias Foſters.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſixth Claſſis to containe:</head>
+               <item>
+                  <hi>Albanes Woodſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Alhallowes Honi-lane,</hi>
+               </item>
+               <item>
+                  <hi>Alphage,</hi>
+               </item>
+               <item>
+                  <hi>Giles Creeplegate,</hi>
+               </item>
+               <item>
+                  <hi>James Chappell</hi>
+               </item>
+               <item>
+                  <hi>Laurence in the Jury,</hi>
+               </item>
+               <item>
+                  <hi>Martin in Iremongerlane</hi>
+               </item>
+               <item>
+                  <hi>Mary Aldermanbury,</hi>
+               </item>
+               <item>
+                  <hi>Marymandlins Milkſtreet</hi>
+               </item>
+               <item>
+                  <hi>Mary Colechurch,</hi>
+               </item>
+               <item>
+                  <hi>Michael in Woodſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Mildred in the Poultry,</hi>
+               </item>
+               <item>
+                  <hi>Olives in the Jewry,</hi>
+               </item>
+            </list>
+            <pb n="6" facs="tcp:175212:5"/>
+            <!-- PDF PAGE 89 -->
+            <list>
+               <head>The ſeventh Claſſis to containe:</head>
+               <item>
+                  <hi>Alhallowes by the Wall,</hi>
+               </item>
+               <item>
+                  <hi>Bartholmew Exchange,</hi>
+               </item>
+               <item>
+                  <hi>Bennet Fynck,</hi>
+               </item>
+               <item>
+                  <hi>Buttolph Biſhopſgate,</hi>
+               </item>
+               <item>
+                  <hi>Chriſtophers,</hi>
+               </item>
+               <item>
+                  <hi>Margaret Lothbury,</hi>
+               </item>
+               <item>
+                  <hi>Michael Baſhinſhaw,</hi>
+               </item>
+               <item>
+                  <hi>Peter poore,</hi>
+               </item>
+               <item>
+                  <hi>Stevens Colemanſtreet.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Eight Claſſis to containe:</head>
+               <item>
+                  <hi>Andrew <g ref="char:V">Ʋ</g>nderſhaft,</hi>
+               </item>
+               <item>
+                  <hi>Buttolph Algate,</hi>
+               </item>
+               <item>
+                  <hi>Ethelburge,</hi>
+               </item>
+               <item>
+                  <hi>Hackney,</hi>
+               </item>
+               <item>
+                  <hi>Hellens,</hi>
+               </item>
+               <item>
+                  <hi>James Dukes-place,</hi>
+               </item>
+               <item>
+                  <hi>Katherine Cree-church,</hi>
+               </item>
+               <item>
+                  <hi>Leonard Shoreditch.</hi>
+               </item>
+               <item>
+                  <hi>Martins Oteſwich, vulgo Outwich.</hi>
+               </item>
+               <item>
+                  <hi>Mary Newington, alias Soke Newington.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ninth Claſſis to containe:</head>
+               <item>
+                  <hi>Alhallowes Barkin,</hi>
+               </item>
+               <item>
+                  <hi>Alhallowes Stanings,</hi>
+               </item>
+               <item>
+                  <hi>Dunſtans in the Eaſt,</hi>
+               </item>
+               <item>
+                  <hi>Gabriel Fenchurch,</hi>
+               </item>
+               <item>
+                  <hi>Katherine Coleman,</hi>
+               </item>
+               <item>
+                  <hi>Katherine Tower,</hi>
+               </item>
+               <item>
+                  <hi>Margaret Pattons,</hi>
+               </item>
+               <item>
+                  <hi>Olaves Hartſtreet,</hi>
+               </item>
+               <item>
+                  <hi>Peters in the Tower,</hi>
+               </item>
+               <item>
+                  <hi>Stepney,</hi>
+               </item>
+               <item>
+                  <hi>Trinity Minories,</hi>
+               </item>
+               <item>
+                  <hi>Wapping,</hi>
+               </item>
+               <item>
+                  <hi>White chappell.</hi>
+               </item>
+            </list>
+            <pb n="7" facs="tcp:175212:5"/>
+            <!-- PDF PAGE 89 -->
+            <list>
+               <head>The tenth Claſſis to containe:</head>
+               <item>
+                  <hi>George Southwarke,</hi>
+               </item>
+               <item>
+                  <hi>Lambeth,</hi>
+               </item>
+               <item>
+                  <hi>Mary Magdalen Bermondſey,</hi>
+               </item>
+               <item>
+                  <hi>Mary Overs,</hi>
+               </item>
+               <item>
+                  <hi>Newington Butts,</hi>
+               </item>
+               <item>
+                  <hi>Olives Southwarke<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Rotherhithe vulgo Redriff</hi>
+               </item>
+               <item>
+                  <hi>Thomas Hoſpitall,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Southwarke,</hi>
+               </item>
+            </list>
+            <list>
+               <head>The eleventh Claſſis to containe:</head>
+               <item>
+                  <hi>Clements Danes,</hi>
+               </item>
+               <item>
+                  <hi>Giles in the Fields,</hi>
+               </item>
+               <item>
+                  <hi>Knightsbridge,</hi>
+               </item>
+               <item>
+                  <hi>Margarets Weſtminſter,</hi>
+               </item>
+               <item>
+                  <hi>Martins in the Fields.</hi>
+               </item>
+               <item>
+                  <hi>Newchurch,</hi>
+               </item>
+               <item>
+                  <hi>Peters Weſtminster,</hi>
+               </item>
+               <item>
+                  <hi>Pauls chappell in covent Garden.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The twelfth Claſſis to containe:</head>
+               <item>
+                  <hi>Andrew Holburne,</hi>
+               </item>
+               <item>
+                  <hi>Bartholmew the greater,</hi>
+               </item>
+               <item>
+                  <hi>Bartholmew the leſſe,</hi>
+               </item>
+               <item>
+                  <hi>Chaterhouſe,</hi>
+               </item>
+               <item>
+                  <hi>Dunſtones in the Weſt,</hi>
+               </item>
+               <item>
+                  <hi>James Carkenwell,</hi>
+               </item>
+               <item>
+                  <hi>Mary Iſlington,</hi>
+               </item>
+               <item>
+                  <hi>Sepulchers.</hi>
+               </item>
+            </list>
+            <p n="9">9. That all the Severall Pariſhes and Places within the Cities of London and Weſtminſter, and the parts adjacent, according as they are diſtinguiſhed into twelve ſeverall Claſſis, ſhall
+<pb n="8" facs="tcp:175212:6"/>
+               <!-- PDF PAGE 90 -->be the extent and bounds of the Province of London.</p>
+            <div type="part">
+               <head>Concerning the members of the Claſſicall and Congre<g ref="char:EOLhyphen"/>gationall Aſſemblies in the ſeverall counties.</head>
+               <p>THat in the ſeverall Counties certaine per<g ref="char:EOLhyphen"/>ſons, Miniſters, and others, ſhall be appoin<g ref="char:EOLhyphen"/>ted by authority of Parliament, who ſhall con<g ref="char:EOLhyphen"/>ſider how their ſeverall Counties reſpectively may be moſt conveniently divided into diſtinct claſſicall Presbyteries, and what Miniſters and o<g ref="char:EOLhyphen"/>thers are fit to be of each Claſſis. And they ſhall accordingly make ſuch diviſion, and nomination of perſons for each claſſicall Presbytery, which Diviſions, and perſons ſo named for every Divi<g ref="char:EOLhyphen"/>ſion ſhall be certified up to the Parliament. That the Chancellors, Vice-chancellors, and heads of the Univerſities ſhall conſider how the Col<g ref="char:EOLhyphen"/>ledges may be moſt conveniently put into claſ<g ref="char:EOLhyphen"/>ſicall Presbyteries, and doe certifie the ſame up unto the Parliament.</p>
+               <p>And the ſaid ſeverall Claſſes reſpectively be<g ref="char:EOLhyphen"/>ing approued by Parliament within their ſeve<g ref="char:EOLhyphen"/>rall Precincts ſhall have power to conſtitute Congregationall Elderſhips where a competent number of perſons ſo qualified for Elders, as a<g ref="char:EOLhyphen"/>foreſaid,
+<pb n="9" facs="tcp:175212:6"/>
+                  <!-- PDF PAGE 90 -->ſhall be found. And where no perſons ſhall be found fit to be Elders, as aforeſaid, then that Congregation ſhall be immediately under the Claſſicall Presbytery, untill that congrega<g ref="char:EOLhyphen"/>tion ſhall be enabled with members fit to be El<g ref="char:EOLhyphen"/>ders, as aforeſaid.</p>
+               <p>The congregationall Aſſembly ſhal meet once every weeke, and oftner if occaſion ſhall ſerve.</p>
+               <p>The claſſicall Aſſembly ſhall meet once every moneth.</p>
+            </div>
+            <div type="part">
+               <head>Concerning members of the Provinciall Aſſembly.</head>
+               <p>THe Provinciall Aſſembly ſhall be conſtitu<g ref="char:EOLhyphen"/>ted of members ſent from every Claſſis within the Province.</p>
+               <p>The number of the members ſent from each Claſſes ſhall be ſo proportioned, as that the Pro<g ref="char:EOLhyphen"/>vinciall Aſſembly may be more in number then any Claſſicall Presbytery within that Province. And to that end there ſhall be at leaſt two Mi<g ref="char:EOLhyphen"/>niſters, and foure Ruling-Elders out of every Claſſis. And that where there ſhall be need, the number may be increaſed, as to the perſons ap<g ref="char:EOLhyphen"/>pointed for the bounding of the Provinciall Aſſembly ſhall ſeem meet. Provided, that the
+<pb n="10" facs="tcp:175212:7" rendition="simple:additions"/>
+                  <!-- PDF PAGE 91 -->number doe not exceed nine of each, Miniſters and Ruling-Elders, from any one Claſſis. And that there be alwaies two Ruling-Elders to one Miniſter. That the Provinciall Aſſembly being conſtituted, ſhall meet twice every yeere, the firſt meeting ſhall be determined by the perſons ap<g ref="char:EOLhyphen"/>pointed for the bounding of the Provinciall and Claſſicall Aſſembles.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Nationall Aſſembly.</head>
+               <p>THat the Nationall Aſſembly ſhall be con<g ref="char:EOLhyphen"/>ſtituted of members ſent from the ſeverall Provinces aforeſaid, the number of the members from each Province to the Nationall Aſſembly ſhall be two Miniſters, and foure Ruling-Elders. The Nationall Aſſembly is to meet when they ſhall be ſummoned by Parliament, and to ſit and continue as the Parliament ſhall order, and not otherwiſe.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:175212:7"/>
+               <!-- PDF PAGE 91 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
